@@ -12,6 +12,16 @@
 
 [NumberTransform（包含该文档和需求分析）](https://github.com/Ohmuskmelon/NumberTransform)
 
+### 使用方法
+>- 使用 pycharm 打开项目文件
+在 pycharm 界面，点击 File ，点击 New Project ，新建 Django 文件夹，然后替换为仓库内的NumberTransformer 文件夹。点 Run 运行后，在浏览器输入 localhost:8000/jisuan，即可获得成果。
+[配置完后点这里！](http://127.0.0.1:8000/jisuan/)
+
+<img src=https://img-blog.csdnimg.cn/0cb0c1c02260499487bffad16500bb68.jpeg width=75%>
+
+<img src=https://img-blog.csdnimg.cn/93f1ff00696a4ebeaef7e8641edc507b.jpeg width=75%>
+
+<img src=https://img-blog.csdnimg.cn/333833beae1440619375f8dd42efc611.jpeg width=75%>
 
 ## PSP表格 预估耗时 实际耗时
 
