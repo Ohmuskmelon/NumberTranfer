@@ -3,7 +3,7 @@
 
 | 这个作业属于哪个课程 | [Fzusdn](https://bbs.csdn.net/forums/fzusdn) |
 | ----------------- |--------------- | 
-| 这个作业要求在哪里| [团队项目之现场编程](https://bbs.csdn.net/topics/603021225) | 
+| 这个作业要求在哪里| [团队项目之现场编程](https://bbs.csdn.net/topics/609337034) | 
 | 这个作业的目标 | 	学习和使用团队Github协作,考验小组团队写作能力 |
 | 团队名称 |此生不戒多巴胺|
 | 团队成员学号| 042003115、042003101、032002211、051901318、012002116、052003112、032002218 、032004125、032002430、032004117|
@@ -13,8 +13,7 @@
 [NumberTransform（包含该文档和需求分析）](https://github.com/Ohmuskmelon/NumberTransform)
 
 ### 使用方法
->- 使用 pycharm 打开项目文件
-在 pycharm 界面，点击 File ，点击 New Project ，新建 Django 文件夹，然后替换为仓库内的NumberTransformer 文件夹。点 Run 运行后，在浏览器输入 localhost:8000/jisuan，即可获得成果。
+>- 下载code文件夹并解压后，在 pycharm 界面，点击 File ，点击 New Project ，新建 Django 文件夹，然后替换为的压缩包里code文件夹（或者也可以参照GitHub上的readme运行，运行不了可以联系廖礼达qq:1293436462）。点 Run 运行后，在浏览器输入 localhost:8000/jisuan，即可获得成果。
 [配置完后点这里！](http://127.0.0.1:8000/jisuan/)
 
 <img src=https://img-blog.csdnimg.cn/0cb0c1c02260499487bffad16500bb68.jpeg width=75%>
@@ -99,7 +98,13 @@
 
 输出：捌仟零捌拾元整
 
+## commit记录
 
+<img src=https://img-blog.csdnimg.cn/4687c2cf72824d24860d2521b3daa145.jpeg width=75%>
+
+<img src=https://img-blog.csdnimg.cn/0a7ecfa45ed743b9ad38fd409e387431.jpeg width=75%>
+
+<img src=https://img-blog.csdnimg.cn/47322d2202f64bc5a50ae32497a21299.jpeg width=75%>
 
 ## 运行结果演示
 >- 阿拉伯数字转汉字
