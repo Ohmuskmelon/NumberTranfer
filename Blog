@@ -1,0 +1,34 @@
+# 团队项目之现场编程（此生不戒多巴胺）
+[TOC]
+
+| 这个作业属于哪个课程 | [Fzusdn](https://bbs.csdn.net/forums/fzusdn) |
+| ----------------- |--------------- | 
+| 这个作业要求在哪里| [团队项目之现场编程](https://bbs.csdn.net/topics/603021225) | 
+| 这个作业的目标 | 	学习和使用团队Github协作,考验小组团队写作能力 |
+| 团队名称 |此生不戒多巴胺|
+| 团队成员学号|  |
+
+## Github 仓库
+
+[NumberTransform](https://github.com/Ohmuskmelon/NumberTransform)
+
+
+## PSP表格 预估耗时 实际耗时
+
+| PSP | Personal Software Process Stages | 预估耗时（分钟）  | 实际耗时（分钟） |
+| ----------------- |--------------- |--------------- |--------------- |
+| Planning    | 计划 | 15  | 20 |
+| Estimate    | 估计这个任务需要多少时间 | 150 | 180 |
+| Development | 开发 | 90  | 95  |
+| Analysis	  | 需求分析 (包括学习新技术) |5 | 5|
+| Design Spec | 生成设计文档 | 5 | 5 |
+| Design Review | 设计复审 (和同事审核设计文档) | 10 | 5 |
+| Coding Standard | 代码规范 (为目前的开发制定合适的规范 | 5  |  5 |
+| Design | 具体设计 | 10 | 10  |
+| Coding | 具体编码 | 90  |  95 |
+| Code Review | 代码复审 | 5  |  5 |
+| Test | 测试（自我测试，修改代码，提交修改） | 10  | 10  |
+| Report | 报告 | -  | -  |
+| Size Measurement |  计算工作量 | 5  | 5  |
+| Postmortem & Process Improvement Plan | 事后总结, 并提出过程改进计划 | 5  | 5  |
+|       | 合计 | ~~395~~ 155  | ~~445~~ 170 |
